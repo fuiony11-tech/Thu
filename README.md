@@ -2,7 +2,8 @@
 
 
 
-# Work Experience
-- Teaching
+## Work Experience
+- Teaching Bible Study | July 2022 - 2026
   
-# Educational Background
+## Educational Background
+- Religious Studies
