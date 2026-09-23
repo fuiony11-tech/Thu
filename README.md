@@ -10,8 +10,8 @@
    - Micro Business Manager
 
 ## Educational Background
-- Religious Studies- Bible Study 
-- GMBA, Tunghai University
+- Religious Studies | Ekumene Theological Seminary | 2018 - 2022
+- GMBA | Tunghai University | 2026 - 2028
 
 ## Computer Skills
 - Python
